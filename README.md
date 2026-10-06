@@ -217,4 +217,4 @@ Shadow Complex is available as a full free version with all features and updates
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-05 22:23:07 UTC
+**Last updated:** 2026-10-06 02:45:53 UTC
